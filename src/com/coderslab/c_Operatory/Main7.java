@@ -9,6 +9,8 @@ public class Main7 {
         System.out.println(result);
 
         nr1 = 10;
+        result = nr1 + nr2;
+        System.out.println(result);
 
     }
 
