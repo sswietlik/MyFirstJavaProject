@@ -1,4 +1,4 @@
-package com.coderslab;
+package com.coderslab.myAdditionalProgs;
 
 public class MyFirstJavaProgram {
         public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.coderslab;
+package com.coderslab.myAdditionalProgs;
 
 public class Main {
 

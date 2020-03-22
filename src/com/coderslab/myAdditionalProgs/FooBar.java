@@ -1,4 +1,4 @@
-package com.coderslab;
+package com.coderslab.myAdditionalProgs;
 
 public class FooBar {
     public static void main (String[] args) {

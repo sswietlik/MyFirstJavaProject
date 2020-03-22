@@ -1,33 +1,20 @@
-//package com.coderslab.d_Kontrola_Przeplywu_programu;
-//
-//public class Main2 {
-//    public static void main(String[] args) {
-//        int nr1 = 7;
-//        int nr2 = 2;
-//        int nr3 = 11;
-//        String biggest;
-//
-//        if(nr1 > nr2 || nr1 > nr3)
-//        {
-//            biggest = "biggest is " + nr1;
-//        }
-//
-//        else if(nr2 > nr1 ||  nr2 >nr3)
-//        {
-//            biggest = "biggest is " + nr2;
-//        }
-//
-//        else (nr3 > nr1 ||  nr3 > nr2) {
-//            {
-//                biggest = "biggest is " + nr3;
-//            }
-//        else{
-//                System.out.println("wrong data");
-//            }
-//
-//
-//        }
-//    }
+package com.coderslab.d_Kontrola_Przeplywu_programu;
+
+public class Main2 {
+    public static void main(String[] args) {
+        int nr1 = 1;
+        int nr2 = 2;
+        int nr3 = 3;
+        String biggest;
+
+        if ((nr1 > nr2) || (nr1 > nr3)){
+            biggest = " nr 1 is bigest ";
+            System.out.println(biggest);
+        }
+    }
+}
+
+
 
 
 //#### Zadanie 2
